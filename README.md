@@ -1,4 +1,4 @@
-# Water Cleaning Robot _(Protentum)_
+# Water Cleaning Robot
 Water Cleaning Robot "Protentus" is a robot that floats on the water of rivers, loads the rubbish onto its body and return to the shore to get the rubbish collected.
 It can controlled by an Flysky RC which communicates by PPM communication protocol or through nRF RC and nRF communication protocol.
 
